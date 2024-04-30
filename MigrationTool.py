@@ -21,6 +21,6 @@ def copy_matching_folders(source_directory, destination_directory, folder_names_
 
 folder_names_file = r'path\to\ids.txt'  
 source_directory = r'path\to\dataset'  
-destination_directory = r'new\directory\'  
+destination_directory = r'new\directory'  
 
 copy_matching_folders(source_directory, destination_directory, folder_names_file)
