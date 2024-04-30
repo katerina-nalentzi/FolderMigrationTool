@@ -20,3 +20,5 @@ Clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/katerina-nalentzi/FolderMigrationTool.git
+
+► create a .txt file with folder names in different lines, make sure to edit the directories and run the script.
